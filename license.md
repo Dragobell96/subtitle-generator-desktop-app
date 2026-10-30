@@ -147,6 +147,6 @@ stores them, and avoids upload time on large files.
 
 ---
 
-*subtitle-generator-desktop-app · Updated 2026-10-29 · Shared under the MIT License*
+*subtitle-generator-desktop-app · Updated 2026-10-30 · Shared under the MIT License*
 
-<!-- updated 2026-10-29 -->
+<!-- updated 2026-10-30 -->
